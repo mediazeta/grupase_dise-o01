@@ -1,0 +1,1 @@
+#main-header{box-shadow:none!important}@media (min-width:980px){.ctamenu{padding:0!important;border-radius:30px;border:solid 2px #e02b20;transition:0.3s;background-color:#ede4de}.ctamenu a{color:#000000!important;padding:10px 15px 10px 15px!important}#top-menu-nav .ctamenu a:hover{opacity:1}.ctamenu:hover{border:solid 2px #000000;background:#ffffff}}
